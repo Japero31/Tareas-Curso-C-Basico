@@ -1,0 +1,15 @@
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\bin\Debug\net6.0\Ejercicios Condicionales.exe
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\bin\Debug\net6.0\Ejercicios Condicionales.deps.json
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\bin\Debug\net6.0\Ejercicios Condicionales.runtimeconfig.json
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\bin\Debug\net6.0\Ejercicios Condicionales.dll
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\bin\Debug\net6.0\Ejercicios Condicionales.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.csproj.AssemblyReference.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.AssemblyInfoInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.AssemblyInfo.cs
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.dll
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\refint\Ejercicios Condicionales.dll
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\Ejercicios Condicionales.genruntimeconfig.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios Condicionales\Ejercicios Condicionales\obj\Debug\net6.0\ref\Ejercicios Condicionales.dll

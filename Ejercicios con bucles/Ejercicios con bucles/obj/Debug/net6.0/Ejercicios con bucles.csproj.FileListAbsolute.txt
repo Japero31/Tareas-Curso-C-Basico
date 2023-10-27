@@ -1,0 +1,15 @@
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\bin\Debug\net6.0\Ejercicios con bucles.exe
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\bin\Debug\net6.0\Ejercicios con bucles.deps.json
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\bin\Debug\net6.0\Ejercicios con bucles.runtimeconfig.json
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\bin\Debug\net6.0\Ejercicios con bucles.dll
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\bin\Debug\net6.0\Ejercicios con bucles.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.csproj.AssemblyReference.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.AssemblyInfoInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.AssemblyInfo.cs
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.csproj.CoreCompileInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.dll
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\refint\Ejercicios con bucles.dll
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\Ejercicios con bucles.genruntimeconfig.cache
+C:\Users\javier.pena\Desktop\Curso c#\Ejercicios con bucles\Ejercicios con bucles\obj\Debug\net6.0\ref\Ejercicios con bucles.dll
