@@ -1,0 +1,17 @@
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\bin\Debug\net6.0-windows\NegocioApp.exe
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\bin\Debug\net6.0-windows\NegocioApp.deps.json
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\bin\Debug\net6.0-windows\NegocioApp.runtimeconfig.json
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\bin\Debug\net6.0-windows\NegocioApp.dll
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\bin\Debug\net6.0-windows\NegocioApp.pdb
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.csproj.AssemblyReference.cache
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.Form1.resources
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.csproj.GenerateResource.cache
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.AssemblyInfoInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.AssemblyInfo.cs
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.csproj.CoreCompileInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.dll
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\refint\NegocioApp.dll
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.pdb
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\NegocioApp.genruntimeconfig.cache
+C:\Users\javier.pena\Desktop\Curso c#\NegocioApp\NegocioApp\obj\Debug\net6.0-windows\ref\NegocioApp.dll
