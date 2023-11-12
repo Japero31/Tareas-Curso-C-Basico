@@ -1,0 +1,17 @@
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\bin\Debug\net6.0-windows\LadosTriangulo.exe
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\bin\Debug\net6.0-windows\LadosTriangulo.deps.json
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\bin\Debug\net6.0-windows\LadosTriangulo.runtimeconfig.json
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\bin\Debug\net6.0-windows\LadosTriangulo.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\bin\Debug\net6.0-windows\LadosTriangulo.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.csproj.AssemblyReference.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.Form1.resources
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.csproj.GenerateResource.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.AssemblyInfoInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.AssemblyInfo.cs
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\refint\LadosTriangulo.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\LadosTriangulo.genruntimeconfig.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\obj\Debug\net6.0-windows\ref\LadosTriangulo.dll

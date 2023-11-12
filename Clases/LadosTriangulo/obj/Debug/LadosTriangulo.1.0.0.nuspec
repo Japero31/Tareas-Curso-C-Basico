@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LadosTriangulo</id>
+    <version>1.0.0</version>
+    <authors>LadosTriangulo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\bin\Debug\net6.0-windows\LadosTriangulo.runtimeconfig.json" target="lib\net6.0-windows7.0\LadosTriangulo.runtimeconfig.json" />
+    <file src="C:\Users\javier.pena\Desktop\Curso c#\Clases\LadosTriangulo\bin\Debug\net6.0-windows\LadosTriangulo.dll" target="lib\net6.0-windows7.0\LadosTriangulo.dll" />
+  </files>
+</package>

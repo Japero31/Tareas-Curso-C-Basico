@@ -1,0 +1,17 @@
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\bin\Debug\net6.0-windows\Edad de persona.exe
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\bin\Debug\net6.0-windows\Edad de persona.deps.json
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\bin\Debug\net6.0-windows\Edad de persona.runtimeconfig.json
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\bin\Debug\net6.0-windows\Edad de persona.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\bin\Debug\net6.0-windows\Edad de persona.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.csproj.AssemblyReference.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad_de_persona.Form1.resources
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.csproj.GenerateResource.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.AssemblyInfoInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.AssemblyInfo.cs
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.csproj.CoreCompileInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\refint\Edad de persona.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\Edad de persona.genruntimeconfig.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Edad de persona\obj\Debug\net6.0-windows\ref\Edad de persona.dll

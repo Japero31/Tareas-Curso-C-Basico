@@ -1,0 +1,17 @@
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\bin\Debug\net6.0-windows\Operaciones.exe
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\bin\Debug\net6.0-windows\Operaciones.deps.json
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\bin\Debug\net6.0-windows\Operaciones.runtimeconfig.json
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\bin\Debug\net6.0-windows\Operaciones.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\bin\Debug\net6.0-windows\Operaciones.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.csproj.AssemblyReference.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.Form1.resources
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.csproj.GenerateResource.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.AssemblyInfoInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.AssemblyInfo.cs
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\refint\Operaciones.dll
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.pdb
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\Operaciones.genruntimeconfig.cache
+C:\Users\javier.pena\Desktop\Curso c#\Clases\Operaciones\obj\Debug\net6.0-windows\ref\Operaciones.dll
